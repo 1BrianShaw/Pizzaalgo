@@ -1,0 +1,7 @@
+Decide where to order from
+check for coupons
+pick the size of the pizza
+choose the toppings
+call in the order for delivery
+pay the driver when they arive with the pizza
+eat the pizza
